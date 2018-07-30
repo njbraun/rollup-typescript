@@ -1,0 +1,8 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:latest",
+        "tslint-config-standard",
+        "tslint-config-prettier"
+    ]
+}
